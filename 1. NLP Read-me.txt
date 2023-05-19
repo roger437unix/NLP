@@ -1,0 +1,10 @@
+
+** Documentação do serviço de Fala **
+
+https://learn.microsoft.com/pt-br/azure/cognitive-services/speech-service/?source=docs
+
+
+** Text to speech **
+
+https://azure.microsoft.com/en-us/products/cognitive-services/text-to-speech/#overview
+
